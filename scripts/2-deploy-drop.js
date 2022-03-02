@@ -31,5 +31,3 @@ const app = sdk.getAppModule("0xbb7101Ab886B295fBea7FBfC504c2B637d5B1214");
     console.log("failed to deploy bundleDrop module", error);
   }
 })()
-// 0x4Ae448B7Af3F9BD5d8E2b84f3fA4F6cd40A2a590
-// https://cloudflare-ipfs.com/ipfs/bafkreifv2acgor4i6oovxi3p2xcnksx5ac2xhmgq4crdkie3kwltcivufq
